@@ -29,7 +29,7 @@ MindFuel AI is an AI-powered motivation and productivity website designed to hel
 - Contact form for user interaction  
 
 ## Live Website  
-PASTE_YOUR_LOVABLE_AI_WEBSITE_LINK_HERE
+(https://mindfuel-ai-hub.lovable.app/)
 
 ## Learning Outcome  
 This task helped me understand how prompt engineering can be applied to real-world applications such as no-code website development, enabling rapid creation of AI-powered digital products.
